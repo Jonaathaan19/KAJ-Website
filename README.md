@@ -12,3 +12,7 @@ Plugins Utilized:
   - SmoothScroll JS
   - Light Slider JS
   - Light Gallery JS
+  
+  Live Demo: 
+  
+  Check out my portfolio: 
