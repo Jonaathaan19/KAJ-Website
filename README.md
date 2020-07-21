@@ -14,5 +14,3 @@ Javascript Libraries Utilized:
   - Light Gallery JS
   
   Live Demo: 
-  
-  Check out my portfolio: 
