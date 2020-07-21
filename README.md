@@ -7,7 +7,7 @@ Languages Utilized:
   - PHP
   - JS
   
-Plugins Utilized:
+Javascript Libraries Utilized:
   - Animate on Scroll JS
   - SmoothScroll JS
   - Light Slider JS
